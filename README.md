@@ -17,9 +17,9 @@ pip install -r requirements.txt
 ```
 ## Code Structure
 
-The repository contains four python scripts including (i) a
+The repository contains following four python scripts 
 
-- `main.py`: The main Python script for running the experiments.
+- [`a_df_pdf_working.py`](a_df_pdf_working.py): The code to extract and process the data of mechanical and microstructure properties of testing samples from .pdf format to .csv file
 - `utils/`: Directory containing utility functions.
 - `data/`: Directory for storing input data.
 - `models/`: Directory containing the machine learning models.
