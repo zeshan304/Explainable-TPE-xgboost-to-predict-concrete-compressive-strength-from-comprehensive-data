@@ -1,8 +1,8 @@
-# Research Paper Title
+# About
 
 This repository contains the code and supplementary materials for the research paper titled "**Explainable TPE-xgboost to predict concrete compressive strength from concrete compositions, and mechanical and microstructure properties of testing samples**".
 
-## Abstract
+## Abstract of Research Paper
 
 Efficient machine learning for predicting concrete compressive strengths (CCS) requires improved data and robust algorithms. ....!
 
