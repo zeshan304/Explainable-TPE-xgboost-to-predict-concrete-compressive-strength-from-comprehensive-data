@@ -1,6 +1,6 @@
 # Research Paper Title
 
-This repository contains the code and supplementary materials for the research paper titled "Explainable TPE-xgboost to predict concrete compressive strength from concrete compositions, and mechanical and microstructure properties of testing samples".
+This repository contains the code and supplementary materials for the research paper titled "**Explainable TPE-xgboost to predict concrete compressive strength from concrete compositions, and mechanical and microstructure properties of testing samples**".
 
 ## Paper Abstract
 
@@ -20,23 +20,13 @@ pip install -r requirements.txt
 The repository contains following four python scripts 
 
 - [`a_df_pdf_working.py`](a_df_pdf_working.py): The code to extract and process the data of mechanical and microstructure properties of testing samples from .pdf format to .csv file
-- `utils/`: Directory containing utility functions.
-- `data/`: Directory for storing input data.
-- `models/`: Directory containing the machine learning models.
-- `results/`: Directory where the output results are saved.
-
-## Usage
-
-Provide instructions on how to use the code and any specific commands or scripts that need to be executed.
-
-
+- [`b_df1_working.py`](b_df1_working.py): The code for anlaysis and modeling of concrete composition data
+- [`c_df2_working.py`](c_df2_working.py): The code for anlaysis and modeling of mechanical and microstructure properties of testing samples data
+- [`d_df3_working.py`](d_df3_working.py): The code for anlaysis and modeling of integrated data
 [ ## Citation
 
 If you use this code or find the research paper helpful, please consider citing:
-
-[Author(s). (Year). Title. Journal/Conference. DOI]
-]
-
+......
 ## Contact
 
-Provide your contact information for questions, feedback, or collaboration opportunities.
+........
