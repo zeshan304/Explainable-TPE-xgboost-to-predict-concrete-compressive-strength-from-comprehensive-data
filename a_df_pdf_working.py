@@ -3,7 +3,7 @@ import camelot
 import pandas as pd
 
 # Importing the data from pdf file in raw format
-file_path=os.path.join(os.getcwd(), 'literature\data_paper.pdf') # This is the file path of data paper
+file_path=os.path.join(os.getcwd(), 'data_paper.pdf') # This is the file path of data paper of mechanical and microstructure properties of testing samples.
 tables=camelot.read_pdf(file_path,pages='4-16', flavor='stream')
 
 # Extracting and pre-processing Table 1 from Page 4
