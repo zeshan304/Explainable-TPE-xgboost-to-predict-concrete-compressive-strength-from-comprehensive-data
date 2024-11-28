@@ -17,10 +17,10 @@ pip install -r requirements.txt
 
 The repository contains following four juypter files 
 
-- [`pdf_to_csv_working.ipynb`](a_df_pdf_working.py): The code to extract and process the data of mechanical and microstructure properties of testing samples from .pdf format to .csv file
-- [`df1_working.ipynb`](b_df1_working.py): The code for anlaysis and modeling of concrete composition data
-- [`df2_working.ipynb`](c_df2_working.py): The code for anlaysis and modeling of mechanical and microstructure properties of testing samples data
-- [`df3_working.ipynb`](d_df3_working.py): The code for anlaysis and modeling of integrated data
+- [`pdf_to_csv_working.ipynb`](pdf_to_csv_working.ipynb): The code to extract and process the data of mechanical and microstructure properties of testing samples from .pdf format to .csv file
+- [`df1_working.ipynb`](https://github.com/zeshan304/Explainable-TPE-xgboost-to-predict-concrete-compressive-strength-from-comprehensive-data/blob/main/df1_working.ipynb): The code for anlaysis and modeling of concrete composition data
+- [`df2_working.ipynb`](https://github.com/zeshan304/Explainable-TPE-xgboost-to-predict-concrete-compressive-strength-from-comprehensive-data/blob/main/df2_working.ipynb): The code for anlaysis and modeling of mechanical and microstructure properties of testing samples data
+- [`df3_working.ipynb`](https://github.com/zeshan304/Explainable-TPE-xgboost-to-predict-concrete-compressive-strength-from-comprehensive-data/blob/main/df3_working.ipynb): The code for anlaysis and modeling of integrated data
 
 ## Citation
 
