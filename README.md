@@ -1,10 +1,10 @@
 # About
 
-This repository contains the code and supplementary materials for the research paper titled "**Explainable TPE-xgboost to predict concrete compressive strength from concrete compositions, and mechanical and microstructure properties of testing samples**".
+This repository contains the code and supplementary materials for the research paper titled "**TPE-xgboost for explainable predictions of concrete compressive strength considering compositions, and mechanical and microstructure properties of testing samples**".
 
 ## Abstract of Research Paper
 
-Efficient machine learning for predicting concrete compressive strengths (CCS) requires improved data and robust algorithms. ....!
+The use of machine learning (ML) for predicting concrete compressive strength (CCS) has shown promising and accurate results, making it a valuable tool in the field. However, efficient prediction requires not only a robust ML approach but also a comprehensive and well-curated dataset. This study addresses this challenge by investigating an extensive and integrated dataset of (1) concrete compositions (mixture proportions) and (2) testing conditions (mechanical and microstructure properties of concrete testing samples), containing 1525 observations relating to 39 parameters. On algorithms side, this research proposes novel tree-structured parzen estimator based extreme gradient boosting (TPE-xgboost) for accurate and confident CCS predictions. Moreover, SHapley Additive exPlanations (SHAP) analysis was performed to provide a comprehensive understanding of feature importance, dependencies, and interactions. Compared to prior research, this study demonstrates significant improvements in CCS prediction accuracy for separate investigations on concrete compositions (3.77%) and mechanical and microstructure properties (28.57%), while maintaining reasonable accuracy for the integrated dataset despite its complexity and sparseness. SHAP analysis reveals key influential factors, including age and water-to-binder ratio in concrete composition, and peak load and height of testing samples, as well as microstructural characteristics such as mean values of global autocorrelation length and its integral range. This research provides valuable insights into model optimization, predictive performance, and feature dependencies and interactions, contributing to the development of more accurate and reliable CCS prediction models.
 
 ### Prerequisites
 
