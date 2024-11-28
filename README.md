@@ -17,10 +17,10 @@ pip install -r requirements.txt
 
 The repository contains following four python scripts 
 
-- [`a_df_pdf_working.py`](a_df_pdf_working.py): The code to extract and process the data of mechanical and microstructure properties of testing samples from .pdf format to .csv file
+<!-- - [`a_df_pdf_working.py`](a_df_pdf_working.py): The code to extract and process the data of mechanical and microstructure properties of testing samples from .pdf format to .csv file
 - [`b_df1_working.py`](b_df1_working.py): The code for anlaysis and modeling of concrete composition data
 - [`c_df2_working.py`](c_df2_working.py): The code for anlaysis and modeling of mechanical and microstructure properties of testing samples data
-- [`d_df3_working.py`](d_df3_working.py): The code for anlaysis and modeling of integrated data
+- [`d_df3_working.py`](d_df3_working.py): The code for anlaysis and modeling of integrated data -->
 
 ## Citation
 
