@@ -25,6 +25,18 @@ The repository contains following four juypter files
 ## Citation
 
 If you use this code or find the research paper helpful, please consider citing:
-_ _ _ _ 
+```
+@article{akber2024tpe,
+  title={TPE-xgboost for explainable predictions of concrete compressive strength considering compositions, and mechanical and microstructure properties of testing samples},
+  author={Akber, Muhammad Zeshan and Anwar, Ghazanfar Ali and Chan, Wai-Kit and Lee, Hiu-Hung},
+  journal={Construction and Building Materials},
+  volume={457},
+  pages={139398},
+  year={2024},
+  publisher={Elsevier}
+}
+```
 ## Contact
-_ _ _ _ 
+**Muhammad Zeshan Akber**
+Email: [zeshan304@gmail.com](mailto:zeshan304@gmail.com)
+
