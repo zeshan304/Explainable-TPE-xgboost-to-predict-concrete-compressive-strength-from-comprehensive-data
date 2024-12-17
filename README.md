@@ -8,10 +8,10 @@ The use of machine learning (ML) for predicting concrete compressive strength (C
 
 ### Prerequisites
 
-To set up the required Python environment, you can use the `requirements.txt` file provided in this repository. And to install the dependencies, run the following command:
+To set up the required Python environment, you can use the `ENV_ConcTPEexpxgboost.yml` file provided in this repository. And to install the dependencies, run the following command:
 
 ```bash
-pip install -r requirements.txt
+conda env create -f /fullpathtoEnv/ENV_ConcTPEexpxgboost.yml
 ```
 ### Code Structure
 
